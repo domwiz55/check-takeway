@@ -1,0 +1,5 @@
+var takeway = 400;
+var money = 300;
+console.log(takeway / money)
+var takewayYes = Boolean(takeway);
+console.log(takewayYes)
